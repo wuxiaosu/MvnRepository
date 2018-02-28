@@ -4,7 +4,8 @@
 # 已有项目  
 - [AMapLocation](https://github.com/wuxiaosu/AMapLocation)  
   高德定位的基础 **library**（主要是用来做例子的）；  
-
+- [SettingLabelView](https://github.com/wuxiaosu/MvnRepository)  
+  一个简单的设置组件；  
 ---
 
 # 附录 
